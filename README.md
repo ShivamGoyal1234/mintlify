@@ -6,7 +6,7 @@ A static HTML/CSS recreation of the **Mintlify** marketing site — *The Intelli
 
 ## 📸 Live Demo 
 
-
+https://mintlifyyy.netlify.app/
 
 ## 📸 Preview
 
